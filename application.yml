@@ -1,9 +1,3 @@
 ---
-spring
-  profiles:test
 salary:100
 
----
-spring
-  profiles:prod
-salary:999
