@@ -1,0 +1,14 @@
+
+
+---
+spring:
+  profiles:east
+lucky-word: aaaaaaaa
+    
+---
+
+spring:
+  profiles:west
+lucky-word: bbbbbbbb
+    
+---
