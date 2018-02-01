@@ -1,0 +1,14 @@
+
+
+---
+spring:
+  profiles:east
+    lucky-work: aaaaaaaa
+    
+---
+
+spring:
+  profiles:west
+    lucky-work: bbbbbbbb
+    
+---
