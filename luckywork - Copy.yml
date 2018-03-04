@@ -3,12 +3,12 @@
 ---
 spring:
   profiles:east
-    lucky-work: aaaaaaaa
+lucky-word: aaaaaaaa
     
 ---
 
 spring:
   profiles:west
-    lucky-work: bbbbbbbb
+lucky-word: bbbbbbbb
     
 ---
